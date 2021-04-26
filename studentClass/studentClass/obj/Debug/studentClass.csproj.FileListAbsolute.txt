@@ -1,0 +1,7 @@
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\bin\Debug\studentClass.exe.config
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\bin\Debug\studentClass.exe
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\bin\Debug\studentClass.pdb
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\obj\Debug\studentClass.csprojAssemblyReference.cache
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\obj\Debug\studentClass.csproj.CoreCompileInputs.cache
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\obj\Debug\studentClass.exe
+C:\Users\hmzko\Desktop\OOP\studentClass\studentClass\obj\Debug\studentClass.pdb
